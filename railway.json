@@ -1,0 +1,9 @@
+{
+  "build": {
+    "buildCommand": "pip install -r requirements.txt"
+  },
+  "start": {
+    "cmd": "python TORNATORNA.py",
+    "env": "production"
+  }
+}
